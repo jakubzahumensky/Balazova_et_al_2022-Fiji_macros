@@ -1,0 +1,1 @@
+python -m cellpose --dir D:\analysis\Cellpose\export\ --pretrained_model cyto2 --chan 0 --diameter 70 --mask_threshold 0.0 --flow_threshold 0.5 --use_gpu --no_npy --exclude_on_edges --verbose --savedir D:\analysis\Cellpose\Masks\ --save_png
