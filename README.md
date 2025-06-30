@@ -1,5 +1,5 @@
 # Isc1_paper
-FIJI macros used for automatic image analysis in Balazova et al., 2022
+FIJI macros used for automatic image analysis in Balazova et al., 2022 (https://doi.org/10.1016/j.jbc.2021.101462)
 
 Cell segmetnation is performed using Cellpose (https://github.com/MouseLand/cellpose/blob/master/README.md)
 
