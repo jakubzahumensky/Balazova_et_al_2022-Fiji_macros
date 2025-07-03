@@ -1,4 +1,4 @@
-Fiji macros used for automated image analysis in:
+Fiji (ImageJ) macros used for automated image analysis in:
 
 **Balazova et al., 2022 – Two Different Phospholipases C, Isc1 and Pgc1, Cooperate To Regulate Mitochondrial Function**\
 *Microbiol Spectr* 10(6):e0248922\
